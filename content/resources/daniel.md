@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c5195186-2139-4d3a-6192-f8266bba123e
 resourcetype: Document
 title: daniel.pdf
 uid: 21d06acb-5ae5-a92e-a435-73dbffe72659

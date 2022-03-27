@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c5195186-2139-4d3a-6192-f8266bba123e
 resourcetype: Document
 title: salman.pdf
 uid: 93acc001-6db4-7b8a-7a95-ebe246cedd8f

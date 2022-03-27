@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c5195186-2139-4d3a-6192-f8266bba123e
 resourcetype: Document
 title: jingbin.pdf
 uid: 56cbbda5-7c42-b36e-c995-b8a5d5a55d56

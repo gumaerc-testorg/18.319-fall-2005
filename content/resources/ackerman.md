@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3e0a18cf-ccc9-a8fe-1d0f-56282db1a7c1
 resourcetype: Document
 title: ackerman.pdf
 uid: 9f6e8ae3-0ca0-4698-d562-79551fe2bb39

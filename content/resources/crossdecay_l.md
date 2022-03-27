@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c5195186-2139-4d3a-6192-f8266bba123e
 resourcetype: Document
 title: crossdecay_l.pdf
 uid: ff195f32-0fa9-1979-1056-84a576725004

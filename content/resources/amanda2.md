@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c5195186-2139-4d3a-6192-f8266bba123e
 resourcetype: Document
 title: amanda2.pdf
 uid: 0f937b1c-d94f-a88f-0958-b63d7a2dcea1
