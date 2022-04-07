@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 3e0a18cf-ccc9-a8fe-1d0f-56282db1a7c1
 ---
@@ -135,7 +136,7 @@ Pach, János, and Micha Sharir. "[On the Number of Incidences Between Points and
 Various Crossing Numbers, Embedding Technique
 {{< tdclose >}}
 {{< tdopen >}}
-Combinatorics Seminar: New Results On Old Crossing Numbers (or Old Results On New Ones?) ([PDF]({{< baseurl >}}/resources/pach)) (Courtesy of János Pach and Geza Toth. Used with permission.)  
+Combinatorics Seminar: New Results On Old Crossing Numbers (or Old Results On New Ones?) ({{< resource_link f6fb95a4-ddf0-4ede-9ebf-2bfbd461bda8 "PDF" >}}) (Courtesy of János Pach and Geza Toth. Used with permission.)  
   
 _Various Crossing Numbers_  
   
@@ -267,7 +268,7 @@ Sharir, Micha. "[The Clarkson-Shor Technique Revisited and Extended](http://jour
 Proof of Cutting Lemma, Simplicial Partitions
 {{< tdclose >}}
 {{< tdopen >}}
-Combinatorics Seminar: On The Maximum Number Of Edges In _K_\-Quasi-Planar Graphs ([PDF]({{< baseurl >}}/resources/ackerman) ) (Courtesy of Eyal Ackerman. Used with permission.)  
+Combinatorics Seminar: On The Maximum Number Of Edges In _K_\-Quasi-Planar Graphs ({{< resource_link 9f6e8ae3-0ca0-4698-d562-79551fe2bb39 "PDF" >}} ) (Courtesy of Eyal Ackerman. Used with permission.)  
   
 _Proof of Cutting Lemma_  
   
