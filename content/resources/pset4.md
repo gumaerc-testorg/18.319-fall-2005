@@ -6,6 +6,7 @@ file: /courses/18-319-geometric-combinatorics-fall-2005/fb0ee60df247dc42b3297a97
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pset4.pdf
 uid: fb0ee60d-f247-dc42-b329-7a974602b594
 ---
 This file contains exercise questions for topics viz. Davenport-Schinzel Sequences of Order 3.
-
