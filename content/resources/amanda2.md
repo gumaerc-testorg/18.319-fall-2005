@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the notes for crossing numbers.
 file: /courses/18-319-geometric-combinatorics-fall-2005/0f937b1cd94fa88f0958b63d7a2dcea1_amanda2.pdf
+file_size: 169216
 file_type: application/pdf
 learning_resource_types:
 - Projects

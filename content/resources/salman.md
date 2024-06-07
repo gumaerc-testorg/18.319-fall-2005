@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes for 'Incidence Problems in Plane and Higher
   Dimensions.'
 file: /courses/18-319-geometric-combinatorics-fall-2005/93acc0016db47b8a7a95ebe246cedd8f_salman.pdf
+file_size: 171407
 file_type: application/pdf
 learning_resource_types:
 - Projects
