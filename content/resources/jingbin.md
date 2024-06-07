@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes for bounds of crossing numbers.
 file: /courses/18-319-geometric-combinatorics-fall-2005/56cbbda57c42b36ec995b8a5d5a55d56_jingbin.pdf
+file_size: 114079
 file_type: application/pdf
 learning_resource_types:
 - Projects
