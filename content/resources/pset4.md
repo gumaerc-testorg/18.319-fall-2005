@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains exercise questions for topics viz. Davenport-Schinzel
   Sequences of Order 3.
-file: /courses/18-319-geometric-combinatorics-fall-2005/fb0ee60df247dc42b3297a974602b594_pset4.pdf
+file: /ol-ocw-studio-app/courses/18-319-geometric-combinatorics-fall-2005/fb0ee60df247dc42b3297a974602b594_pset4.pdf
 file_size: 54576
 file_type: application/pdf
 learning_resource_types:

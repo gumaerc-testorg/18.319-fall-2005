@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains exercise questions for topics viz. More on Crossing
   Numbers; Sum vs Product Sets.
-file: /courses/18-319-geometric-combinatorics-fall-2005/4e4dba802a8b5ecc5004877cb7ceb2ee_pset3.pdf
+file: /ol-ocw-studio-app/courses/18-319-geometric-combinatorics-fall-2005/4e4dba802a8b5ecc5004877cb7ceb2ee_pset3.pdf
 file_size: 49064
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains exercise questions for topics viz. Unit Distances,
   Unit Area Triangles, Beck's Two Extremities Theorem, Weak Dirac Conjecture.
-file: /courses/18-319-geometric-combinatorics-fall-2005/1d60eb428fb5ba4513878333b6203745_pset2.pdf
+file: /ol-ocw-studio-app/courses/18-319-geometric-combinatorics-fall-2005/1d60eb428fb5ba4513878333b6203745_pset2.pdf
 file_size: 56765
 file_type: application/pdf
 learning_resource_types:
